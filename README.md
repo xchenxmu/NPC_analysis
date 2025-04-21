@@ -10,7 +10,7 @@
 5. sklearn v1.5.0 
 6. pandas v2.2.2
 7. pillow v10.3.0
-8. 
+
 ## Installation: 
 Require Python version 3.12.9 or higher.
 
